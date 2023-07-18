@@ -2,6 +2,4 @@
 
 ##Education: Tyumen State University
 
-###23 years old
-
-####Faculty: International Relations
+###Faculty: International Relations
